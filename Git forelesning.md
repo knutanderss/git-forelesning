@@ -72,11 +72,16 @@ Scenario: committ noen endringer mens vi følger med på log. Checkout noen comm
 - `git pull`
 - `git push`
 
+Scenario: Opprett et repositorie på en server og push repoet ditt. Gjør endringer i en fil lokalt og en fil online og prøv å pushe.
+
 ## Konflikter
 Git prøver så godt den kan å løse _merge konflikter_, men det er ikke alltid det går. Da må du manuelt løse de ved å velge hvilke endringer du skal beholde.
+
+Scenario: Gjør ulike endringer i samme fil online first, og så online, og prøv å pulle. Løs konflikten.
 
 Vi har foreløpig bare skrapt på overflaten av git sine muligheter, men med det vi har lært så langt kan vi allerede bli mye mer effektive som utviklere.
 
 ## Ekstra: 
-- GUI-verktøy til å diffe og løse konflikter
-- Branching
+ - GUI-verktøy for diff og merge-konflikter
+ - Branching
+ 
