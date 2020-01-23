@@ -77,4 +77,6 @@ Git prøver så godt den kan å løse _merge konflikter_, men det er ikke alltid
 
 Vi har foreløpig bare skrapt på overflaten av git sine muligheter, men med det vi har lært så langt kan vi allerede bli mye mer effektive som utviklere.
 
-## Ekstra: Branching
+## Ekstra: 
+- GUI-verktøy til å diffe og løse konflikter
+- Branching
